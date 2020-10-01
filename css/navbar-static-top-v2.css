@@ -1353,7 +1353,7 @@ ul.ingred-qec li{
   .carousel-control .icon-prev{
     width: 51px;
     height: 51px;
-    top: 0;
+    /* top: 0; */
   }
 
   .carousel-control.left {
