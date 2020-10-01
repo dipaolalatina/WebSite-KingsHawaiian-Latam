@@ -1,0 +1,101 @@
+@font-face {
+	font-family: 'Conv_ITCAvantGardePro-Bold';
+	src: url('font/ITCAvantGardePro-Bold.eot');
+	src: url('font/ITCAvantGardePro-Bold.woff') format('woff'), 
+		 url('font/ITCAvantGardePro-Bold.ttf') format('truetype'),
+		 url('font/ITCAvantGardePro-Bold.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'texgyreadventorbold';
+    src: url('font/avantgarde-bold-webfont.eot');
+    src: url('font/avantgarde-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/avantgarde-bold-webfont.woff2') format('woff2'),
+         url('font/avantgarde-bold-webfont.woff') format('woff'),
+         url('font/avantgarde-bold-webfont.ttf') format('truetype'),
+         url('font/avantgarde-bold-webfont.svg#texgyreadventorbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'texgyreadventorbold_italic';
+    src: url('font/avantgarde-bolditalic-webfont.eot');
+    src: url('font/avantgarde-bolditalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/avantgarde-bolditalic-webfont.woff2') format('woff2'),
+         url('font/avantgarde-bolditalic-webfont.woff') format('woff'),
+         url('font/avantgarde-bolditalic-webfont.ttf') format('truetype'),
+         url('font/avantgarde-bolditalic-webfont.svg#texgyreadventorbold_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'texgyreadventoritalic';
+    src: url('font/avantgarde-italic-webfont.eot');
+    src: url('font/avantgarde-italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/avantgarde-italic-webfont.woff2') format('woff2'),
+         url('font/avantgarde-italic-webfont.woff') format('woff'),
+         url('font/avantgarde-italic-webfont.ttf') format('truetype'),
+         url('font/avantgarde-italic-webfont.svg#texgyreadventoritalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'avantgardeitcregular';
+    src: url('font/avantgardeitc-demi-webfont.eot');
+    src: url('font/avantgardeitc-demi-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/avantgardeitc-demi-webfont.woff2') format('woff2'),
+         url('font/avantgardeitc-demi-webfont.woff') format('woff'),
+         url('font/avantgardeitc-demi-webfont.ttf') format('truetype'),
+         url('font/avantgardeitc-demi-webfont.svg#avantgardeitcregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'avantgardemditcregular';
+    src: url('font/avantgardemditc-bold-webfont.eot');
+    src: url('font/avantgardemditc-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/avantgardemditc-bold-webfont.woff2') format('woff2'),
+         url('font/avantgardemditc-bold-webfont.woff') format('woff'),
+         url('font/avantgardemditc-bold-webfont.ttf') format('truetype'),
+         url('font/avantgardemditc-bold-webfont.svg#avantgardemditcregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'texgyreadventorregular';
+    src: url('font/avantgarde-regular-webfont.eot');
+    src: url('font/avantgarde-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/avantgarde-regular-webfont.woff2') format('woff2'),
+         url('font/avantgarde-regular-webfont.woff') format('woff'),
+         url('font/avantgarde-regular-webfont.ttf') format('truetype'),
+         url('font/avantgarde-regular-webfont.svg#texgyreadventorregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
